@@ -1,0 +1,75 @@
+#caja {
+  height: 768px;
+  width: 1366px;
+  top: 0px;
+  left: 0px;
+  background-image: url("./imagenes/FONDOPOBLA0.jpg");
+  background-repeat: no-repeat;
+  display: none;
+  overflow: hidden;
+  position: absolute; }
+
+body {
+  overflow: hidden;
+  background-image: url("./imagenes/FONDOPOBLALIMPIO.jpg"); }
+
+#respuesta {
+  opacity: 0.8;
+  background-color: #e3c2d5;
+  border-radius: 18px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #7b265f;
+  height: 120px;
+  width: 550px;
+  left: 130px;
+  top: 90px;
+  display: none;
+  position: relative;
+  padding: 10px; }
+
+#formu {
+  opacity: 0.8;
+  background-color: #e3c2d5;
+  border-radius: 18px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #7b265f;
+  height: 480px;
+  width: 550px;
+  left: 250px;
+  top: 154px;
+  display: block;
+  position: relative;
+  padding: 10px; }
+
+#vuelta {
+  height: 200px;
+  width: 150px;
+  left: 1150px;
+  top: 591px;
+  display: none;
+  position: absolute;
+  z-index: 99; }
+
+#volver {
+  display: none;
+  float: center; }
+
+p {
+  font-family: 'Pangolin', cursive;
+  color: #7b265f;
+  z-index: 99; }
+
+h2, h3 {
+  font-family: 'Pangolin', cursive;
+  color: #7b265f; }
+
+.jugar {
+  background: url("imagenes/jugar.png") no-repeat;
+  border: 0px;
+  width: 180px;
+  height: 120px;
+  float: right; }
+
+/*# sourceMappingURL=population.css.map */

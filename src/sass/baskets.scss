@@ -1,0 +1,45 @@
+.baskets {
+  margin-left: 69px;
+  text-align: center;
+  overflow: hidden;
+  clear: both;
+  .basket {
+    height: 300px;
+    width: 130px;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    text-align: center;
+    font-size: 1rem;
+    line-height: normal;
+    display: inline-block;
+    vertical-align: middle;
+    &:nth-child(even) {
+      img {
+        margin-top: 50px;
+      }
+    }
+    &.active {
+      width: 200px;
+      height: 200px;
+    }
+    > p {
+      color: white;
+    }
+  }
+}
+.full-basket {
+  img:nth-child(1){
+  margin-top: 335px;
+}
+  img:nth-child(2) {
+    margin-top: 55px;
+    margin-left: 130px;
+    align-items: center;
+  }
+  img:nth-child(3){
+    position: absolute;
+    top: 446px;
+    left: 1130px;
+  }
+}

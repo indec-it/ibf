@@ -1,0 +1,14 @@
+.boxes {
+  margin-top: 230px;
+  margin-left: 69px;
+  align-items: center;
+  clear: both; }
+  .boxes .box {
+    height: 125px;
+    width: 130px;
+    cursor: move;
+    float: left; }
+    .boxes .box > img {
+      margin-right: 1000px; }
+
+/*# sourceMappingURL=boxes.css.map */

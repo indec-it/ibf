@@ -1,0 +1,38 @@
+[
+  {
+    "key": "food",
+    "label": "Alimentos y bebidas"
+  },
+  {
+    "key": "medicine",
+    "label": "Atención médica y gastos para la salud"
+  },
+  {
+    "key": "goods",
+    "label": "Bienes y servicios varios"
+  },
+  {
+    "key": "edu",
+    "label": "Educación"
+  },
+  {
+    "key": "household",
+    "label": "Equipamiento y mantenimiento del hogar"
+  },
+  {
+    "key": "entertainment",
+    "label": "Esparcimiento"
+  },
+  {
+    "key": "clothes",
+    "label": "Indumentaria"
+  },
+  {
+    "key": "com",
+    "label": "Transporte y comunicaciones"
+  },
+  {
+    "key": "dwelling",
+    "label": "Vivienda y servicios básicos"
+  }
+]

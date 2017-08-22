@@ -1,0 +1,24 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "boxes";
+@import "baskets";
+@import "fonts";
+@import "tutorial";
+@import "basketsSecondGame";
+@import "podiums";
+@import "population";
+
+body {
+  background-repeat: no-repeat;
+}
+
+p {
+  font-family: "Handlee", cursive;
+  font-weight: bold;
+}
+
+.finish {
+  position: absolute;
+  top: 250px;
+  left: 200px;
+  z-index: 3;
+}

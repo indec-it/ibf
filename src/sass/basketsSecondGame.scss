@@ -1,0 +1,12 @@
+.baskets-second-game {
+  margin-top: 5px;
+  margin-left: 69px;
+  align-items: center;
+  clear: both;
+  .basket {
+    height: 125px;
+    width: 130px;
+    cursor: move;
+    float: left;
+  }
+}

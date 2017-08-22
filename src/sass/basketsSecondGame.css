@@ -1,0 +1,19 @@
+.baskets-second-game {
+  margin-top: 230px;
+  margin-left: 69px;
+  align-items: center;
+  clear: both; }
+  .baskets-second-game .basket {
+    height: 300px;
+    width: 130px;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    text-align: center;
+    font-size: 1rem;
+    line-height: normal;
+    float: left; }
+    .baskets-second-game .basket > img {
+      margin-right: 1000px; }
+
+/*# sourceMappingURL=basketsSecondGame.css.map */

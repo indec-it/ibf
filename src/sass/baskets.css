@@ -1,0 +1,17 @@
+.baskets {
+  margin-left: 69px;
+  text-align: center;
+  overflow: hidden;
+  clear: both; }
+  .baskets .basket {
+    height: 300px;
+    width: 130px; }
+    .baskets .basket:nth-child(even) img {
+      margin-top: 50px; }
+    .baskets .basket.active {
+      width: 200px;
+      height: 200px; }
+    .baskets .basket > p {
+      color: white; }
+
+/*# sourceMappingURL=baskets.css.map */

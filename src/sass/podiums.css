@@ -1,0 +1,14 @@
+.podiums {
+  margin-top: 230px;
+  margin-left: 69px;
+  align-items: center;
+  clear: both; }
+  .podiums .podium {
+    height: 125px;
+    width: 130px;
+    cursor: move;
+    float: left; }
+    .podiums .podium > img {
+      margin-right: 1000px; }
+
+/*# sourceMappingURL=podiums.css.map */

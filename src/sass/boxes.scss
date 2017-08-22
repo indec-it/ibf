@@ -1,0 +1,12 @@
+.boxes {
+  margin-top: 230px;
+  margin-left: 69px;
+  align-items: center;
+  clear: both;
+  .box {
+    height: 125px;
+    width: 130px;
+    cursor: move;
+    float: left;
+  }
+}
